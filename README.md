@@ -36,7 +36,7 @@ Dennis Ivy originally developed the Django & React Notes App. His contributions 
 - Creating the React frontend for a user-friendly interface to interact with the notes.
 - Establishing the foundational project structure and initial configurations.
 
-## Additional Contributions by Rudraksh @https://github.com/Rudraksh2003
+## Additional Contributions by  [RUDRAKSH LADDHA](https://github.com/Rudraksh2003) 
 
 ### Containerization
 
