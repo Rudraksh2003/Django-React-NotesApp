@@ -3,7 +3,10 @@
 import os
 import sys
 from django.test import TestCase
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 class SimpleTest(TestCase):
     def test_addition(self):
         self.assertEqual(1 + 1, 2)
